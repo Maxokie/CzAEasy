@@ -7,4 +7,7 @@ After Effects ScriptUI Panel plugin to help with Crazy Error content creation
 3. Open After Effects
 4. In the top bar menu, click on the Window menu, then at the bottom of it you should see CzAEasy.jsx appear. Just click on it to reveal the panel into your workspace.
 
+# Tutorial on how to use it
+https://youtu.be/aeWvHHvXWhE
+
 # For more information or question, add me on Discord "maxokie" or open an issue in the repo
